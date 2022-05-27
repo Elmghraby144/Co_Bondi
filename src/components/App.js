@@ -10,6 +10,7 @@ import Project from "./Project";
 import Blog from "./Blog";
 import Sup from "./Sup";
 import Footer from "./Footer";
+import "./main.style.css";
 
 const App = () => {
     return (
